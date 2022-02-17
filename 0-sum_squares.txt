@@ -1,0 +1,7 @@
+Read m,n
+Set x to m*m
+Set y to n*n
+Set sum to 0;
+While (m >0 and n >0)
+Set add to x + y
+Write add
