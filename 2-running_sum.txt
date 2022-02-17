@@ -1,0 +1,6 @@
+Read m
+Set sum to 0;
+While (m >= 0)
+    Set sum to m + sum
+Read m
+Write sum
